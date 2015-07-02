@@ -1,1 +1,2 @@
-java -jar flywayFilenameAssistant.jar
+@echo OFF
+START javaw -jar flywayFilenameAssistant.jar
